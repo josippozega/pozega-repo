@@ -1,0 +1,2 @@
+# pozega-repo
+Repozitorij projekata
